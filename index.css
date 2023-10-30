@@ -1,3 +1,6 @@
+
+
+
 body {
     color: white;
     background-color: black;
@@ -15,10 +18,11 @@ a{
 }
 
 header img {
-    width: 150px;
-    height: 150px;
+    width: 180px;
+    height: 180px;
+    margin-left: 20px;
     border-radius: 50%;
-    border: 5px solid green;
+    border: 5px solid rgb(247, 161, 32);
 
 }
 
@@ -26,7 +30,7 @@ header img {
     text-align: center;
 }
 h1{
-    color: green;
+    color: rgb(247, 161, 32);
 }
 footer img{
     width: 30px;
@@ -37,6 +41,11 @@ footer{
     justify-content: center;
 
 }
+
+li a {
+    font-size: 18px;
+}
+
 footer a {
     margin: 20px;
     text-align: center;
@@ -49,5 +58,9 @@ footer p {
     padding: 0px 50px;
 }
 nav a:hover{
-    color: green;
+    color: rgb(247, 161, 32);
 }
+
+/* estilo para a pagina de project */
+
+
