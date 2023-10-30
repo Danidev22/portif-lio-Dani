@@ -36,16 +36,13 @@ header{
 }
 
 .container {
-    background-color: rgb(223, 142, 21);
+    background-color: rgb(247 242 235);
     min-height: 60vh;
     padding: 50px;
     width: 100%;
 }
 
-.products-container {
-    max-width: 1000px;
-    margin: 0 auto;
-}
+
 
 .card {
     font-family: Arial;
